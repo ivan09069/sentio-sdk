@@ -90,7 +90,7 @@
     "@coral-xyz/anchor": "^0.30.1",
     "@coral-xyz/borsh": "^0.30.1",
     "@iota/iota-sdk": "~1.5.0",
-    "@mysten/sui": "~1.37.1",
+    "@mysten/sui": "~1.45.1",
     "@prettier/sync": "^0.5.2",
     "@sentio/abi-wan-kanabi": "2.2.2-1",
     "@sentio/api": "1.0.2",
